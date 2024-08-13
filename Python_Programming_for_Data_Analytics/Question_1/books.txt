@@ -1,13 +1,13 @@
 [
     {
         "book_id": 1,
-        "title": "Python Programming",
+        "title": "Python-1",
         "author": "logesh Doe",
         "copies": 3
     },
     {
         "book_id": 1,
-        "title": "Python Programming",
+        "title": "Python-2",
         "author": "John Doe",
         "copies": 3
     },
