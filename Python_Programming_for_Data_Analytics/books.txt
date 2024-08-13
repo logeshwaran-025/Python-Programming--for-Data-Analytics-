@@ -1,14 +1,9 @@
 [
     {
-        "book_id": 1,
-        "title": "Python Programming",
-        "author": "John Doe",
-        "copies": 3
+        "book_id":200,
+        "title": "Java",
+        "author": "Aman",
+        "copies": 300
     },
-    {
-        "book_id": 10,
-        "title": "It Ends with us",
-        "author": "Colleen Hoover",
-        "copies": 99
-    }
+   
 ]
